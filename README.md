@@ -38,7 +38,7 @@ You can quickly access Chrome dev tools with the keyboard shortcut
 `Cmd+Option+i` on a Mac, or by right/control-clicking anywhere in the window
 and selecting `inspect`.
 
-![Chrome Dev Tools](https://curriculum-content.s3.amazonaws.com/fewds-css/css-graffiti-override/inspect1.png "Open the Chrome dev tools")
+![Chrome Dev Tools](https://curriculum-content.s3.amazonaws.com/fewds-css/css-graffiti-override/inspect1.png"Open the Chrome dev tools")
 
 Inspect the elements of the graffiti wall in the dev tools by hovering
 over and clicking on nested elements. Take a close look at what's made available
